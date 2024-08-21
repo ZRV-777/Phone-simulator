@@ -1,0 +1,9 @@
+# ninja log v5
+0	429	7425535256002626	src/CMakeFiles/modul_26_task_2.dir/main.cpp.obj	7e566e03cf045c37
+6	432	7425535256032646	src/CMakeFiles/modul_26_task_2.dir/contact.cpp.obj	678a05f513042a3e
+3	473	7425535256442628	src/CMakeFiles/modul_26_task_2.dir/phone.cpp.obj	1f319e3b3461e19b
+474	654	7425535258222620	src/modul_26_task_2.exe	bfcab0fc2a07c981
+7	331	7455861369446292	src/CMakeFiles/modul_26_task_2.dir/contact.cpp.obj	678a05f513042a3e
+2	339	7455861369526285	src/CMakeFiles/modul_26_task_2.dir/main.cpp.obj	7e566e03cf045c37
+4	369	7455861369826277	src/CMakeFiles/modul_26_task_2.dir/phone.cpp.obj	1f319e3b3461e19b
+369	433	7455861370446276	src/modul_26_task_2.exe	bfcab0fc2a07c981
